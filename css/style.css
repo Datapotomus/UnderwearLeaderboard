@@ -101,5 +101,5 @@ img {
 }
 
 img.imagehover:hover {
-    box-shadow: 0 0 5px 1px rgba(3, 170, 212, 0.568);
+    box-shadow: 0 0 5px 1px rgba(0, 140, 186, .5);
 }
